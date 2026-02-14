@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=abdellahak&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=khouden&icon=0&color=12)](https://visitcount.itsvg.in)
 <h1 dir="auto">Hi <span><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"</span>!  My name is ABDELLAH KHOUDEN</h1>
 
 <h2>Web developer & Graphic designer</h2>
@@ -22,9 +22,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=abdellahak&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdellahak&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellahak&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=khouden&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khouden&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khouden&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### ✍️ Random Dev Quote
